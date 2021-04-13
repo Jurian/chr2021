@@ -155,7 +155,7 @@ perform.tests <- function(
   if(calc.ami | calc.ari | calc.nmi) require(aricode)
   
   pbo = pboptions(type="txt")
-  Rcpp::sourceCpp('CPP-functions.cpp')
+  Rcpp::sourceCpp('src/CPP-functions.cpp')
   
   
   tryCatch ({
