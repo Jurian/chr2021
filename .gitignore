@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.annoy
+data/*.annoy
+data/*embedding.tsv
