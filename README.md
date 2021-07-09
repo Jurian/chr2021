@@ -1,4 +1,4 @@
-# Experiments for SEMANTICS 2021
+# Experiments for CHR 2021
 
 To run scripts for experiments:
 
